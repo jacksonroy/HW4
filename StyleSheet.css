@@ -1,0 +1,86 @@
+header
+{
+    background-color: #FFFFE0;
+    height: 100px;
+}
+
+header h1
+{
+    float: left;
+    /* text-align: middle; */
+}
+
+header nav
+{
+    float: right;
+}
+
+main 
+{
+    clear: both;
+}
+
+main h3
+{
+    float: left;
+    width: 60%;
+}
+
+main h2
+{
+    float: left;
+    width: 60%;
+}
+
+main p
+{
+    float: left;
+    width: 60%
+}
+
+main ul 
+{
+    float: left;
+    width: 60%;
+}
+
+main img
+{
+    float: right;
+    width: 20%;
+}
+
+.question
+{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.answer
+{
+    font-size: 16px;
+    list-style-type: none;
+    font-weight: lighter;
+}
+
+footer
+{
+    background: #FFFFE0;
+    height: 200px;
+    clear:both;
+    
+}
+
+.contact
+{
+    float: left;
+    text-align: middle;
+}
+
+.sitemap
+{
+    float: right;
+    text-align: middle;
+}
+
+
